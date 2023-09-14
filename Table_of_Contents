@@ -1,3 +1,5 @@
+'this code will create an automatic Table of Contents for all your Worksheets in your open Workbook 
+
 Sub Auto_Table_contents()
   Dim StartCell As Range
   Dim Sh As Worksheet
